@@ -1,6 +1,6 @@
 ---
 layout: rental
-title:  "3BR + 1 Study Rental Appartment Perfect for a Family in Kaohsiung’s Zuoying District! 🏡✨"
+title:  "3BR + 1 Study Appartment For Rent, Perfect for Families in Kaohsiung’s Zuoying District! 🏡✨"
 ---
 
 
@@ -50,21 +50,31 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
   - Gas
   - Couches
   - Dinner Table & Chairs
+  - Microwave
+  - Vacuum Cleaner
+  - Water Filter
+  - Sodastream
+  - Rice Cooker
+  - Steamer
+  - Fully equipped kitchen
+  - Moccamaster
+  - Bidet toilet seats 
+  - Fan
 
 ## Lease
   - Move in anytime
   - Direct rental from Landlord (Proficient in English)
   - One year contract (English rental agreement can be arraged)
+  - 2 Months Bond
+  - $55,000 TWD a month (Building management fee included)
 
 ## Restrictions
   - No Pets
   - Must adhere to building rules
 
 
-
 ## Contacts
 LINE: [@907bjbhg](https://lin.ee/g00nSrm){:target="_blank"}
 
-**No agent required.**
 
 This property is advertised on [591](https://rent.591.com.tw/16647833){:target="_blank"}
