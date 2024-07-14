@@ -38,28 +38,34 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
   - 1 Underground Scooter Parking
 
 ## Apartment Amenities:
-  - Refrigerator
-  - Washing Machine
-  - Dryer
-  - Dish Dryer
-  - TVs (Living Room, All Bedrooms)
-  - Air Conditioning (Living Room - Commercial Grade, Kitchen, Study, All Bedrooms)
-  - Water Heater
-  - Built-in Wardobes 
-  - Built-in Storages
-  - Gas
-  - Couches
-  - Dinner Table & Chairs
-  - Microwave
-  - Vacuum Cleaner
-  - Water Filter
-  - Sodastream
-  - Rice Cooker
-  - Steamer
-  - Fully equipped kitchen
-  - Moccamaster
-  - Bidet toilet seats 
-  - Fan
+  - Kitchen
+      - Refrigerator
+      - Microwave
+      - Dish Dryer
+      - Water Filter
+      - Gas
+      - Sodastream
+      - Rice Cooker
+      - Steamer
+      - Fully equipped kitchen
+      - Moccamaster
+  - Laundry
+      - Washing Machine
+      - Dryer
+  - Entertainment
+      - TVs (Living Room, All Bedrooms)
+  - Comfort
+      - Air Conditioning (Living Room - Commercial Grade, Kitchen, Study, All Bedrooms)
+      - Water Heater
+      - Couches
+      - Dinner Table & Chairs
+      - Bidet toilet seats 
+      - Fan
+  - Storage
+      - Built-in Storages
+      - Built-in Wardobes 
+  - Clearning
+      - Vacuum Cleaner
 
 ## Lease
   - Move in anytime
