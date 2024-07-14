@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: rental
 title:  "Rental"
 ---
 
 
-Contact LINE Official @907bjbhg (https://lin.ee/g00nSrm), phone unattended. No agent required. 
+
 
 Welcome to Your New Urban Oasis in Kaohsiung’s Zuoying District! 🏡✨
 
@@ -35,3 +35,13 @@ Outstanding Building Amenities:
 •💪 Minimalist Gym: Silver coins (20 TWD, subject to change) entry gym available.
 
 •🌆 Rooftop Venue: Bookable for your events and special occasions.
+
+
+## Contacts
+LINE: [@907bjbhg](https://lin.ee/g00nSrm)
+LINE: ![Line]({{ '/assets/contact_rental_line_official.png' | relative_url }})
+What's App: ![What's App](/assets/contact_whatsapp.jpg)
+
+** No agent required. **
+
+This property is advertised on [591](https://rent.591.com.tw/16647833)
