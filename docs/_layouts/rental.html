@@ -1,2 +1,22 @@
 ---
 ---
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  </head>
+  <body>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+LINE: ![Line]({{ '/assets/contact_rental_line_official.png' | relative_url }})
+What's App: ![What's App](/assets/contact_whatsapp.jpg)
+    </footer>
+  </body>
+</html>
