@@ -24,7 +24,7 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
   - 🚗 Secured Car Parking
   - 🛵 Secured Scooter Parking
 
-## The Property:
+## The Apartment
   - 1 Onsite Master Bedroom
   - 2 Bedrooms
   - 1 Guest Bathroom
@@ -78,6 +78,8 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
   - No Pets
   - Must adhere to building rules
 
+## Inspections 
+  - by appointment only
 
 ## Contacts
 LINE: [@907bjbhg](https://lin.ee/g00nSrm){:target="_blank"}
