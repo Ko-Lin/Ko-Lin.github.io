@@ -33,6 +33,18 @@ plugins:
   - jekyll-feed
 sass: 
   style: compact # possible values: nested expanded compact compressed
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/Ko-Lin" }
+    - { platform: x, user_url: "https://x.com/kolinchang" }
+    - { platform: whatsapp, user_url: " https://wa.me/61435054793"}
+header_pages:
+  - boai.md
+  - contacts.md
+author:
+  name: Ko-Lin
+  email: "kochang.chu@gmail.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
