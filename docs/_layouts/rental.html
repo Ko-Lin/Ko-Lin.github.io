@@ -13,11 +13,23 @@
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
-      <iframe width="315" height="560" src="https://www.youtube.com/embed/JM0vK00-EOU?rel=0&autoplay=1&loop=1&playlist=PLdQ8CAdWAAh-xbXFakirmdyQ-YBp18x7r” frameborder=”0″ allowfullscreen" title="{{ title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="315" height="560" src="https://www.youtube.com/embed/JM0vK00-EOU” frameborder=”0″ allowfullscreen" title="{{ title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </section>
-    <footer>
-	    <img src="{{ '/assets/contact_rental_line_official.png' | relative_url }}" />
-	    <img src="{{ '/assets/contact_whatsapp.png' | relative_url }}" />
+    <footer>  
+	    <div class="footer-container">
+		    <div class="footer-item">
+			    <img src="{{ '/assets/contact_whatsapp.png' | relative_url }}" />
+			    <p>Whatsapp Contact</p>
+		    </div>
+		    <div class="footer-item">
+			    <img src="{{ '/assets/contact_rental_line_official.png' | relative_url }}" />
+			    <p>Add Line Official as a friend</p>
+		    </div>
+		    <div class="footer-item">
+			    <img src="{{ '/assets/contact_call_rental_line_official.png' | relative_url }}" />
+			    <p>📞 Call Line Official </p>
+		    </div>
+	    </div>
     </footer>
   </body>
 </html>
