@@ -25,17 +25,17 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
   - 🛵 Secured Scooter Parking
 
 ## The Apartment
-  - 1 Onsite Master Bedroom
+  - 1 Master Bedroom en suite
   - 2 Bedrooms
-  - 1 Guest Bathroom
+  - 1 Primary Bathroom
   - 1 Study
   - 1 Kitchen
   - 1 Living Room
-  - 1 Dinner Room
+  - 1 Dining Room
   - 4 Balconies
-  - Elevator
   - 1 Underground Car Parking
   - 1 Underground Scooter Parking
+  - Elevator Serviced
 
 ## Apartment Amenities:
   - Kitchen
@@ -62,9 +62,9 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
       - Bidet toilet seats 
       - Fan
   - Storage
-      - Built-in Storages
+      - Built-in Storage
       - Built-in Wardobes 
-  - Clearning
+  - Cleaning
       - Vacuum Cleaner
 
 ## Lease
