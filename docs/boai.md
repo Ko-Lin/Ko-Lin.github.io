@@ -79,7 +79,8 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
   - Must adhere to building rules
 
 ## Inspections 
-  - by appointment only
+  - Please fill in [Rental Application Form](https://forms.gle/MkdVXy6WbGwJ8kTS7){:target="_blank"} 
+  - **by appointment only**
 
 ## Contacts
 LINE: [@907bjbhg](https://lin.ee/g00nSrm){:target="_blank"}
