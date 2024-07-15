@@ -20,7 +20,14 @@
   {% for image in site.static_files %}
     {% if image.path contains '/assets/rental/' %}
       <div class="image-item">
-        <img src="{{ image.path }}" alt="{{ image.basename }}" style="width:150px;height:150px;"/>
+	{% if file.extname == ".jpg" or file.extname == ".png" or file.extname == ".gif" %}
+          <img src="{{ file.path }}" alt="{{ file.basename }}" style="width:150px;height:150px;"/>
+        {% elsif file.extname == ".mp4" %}
+          <video width="150" height="150" controls>
+            <source src="{{ file.path }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        {% endif %}
       </div>
     {% endif %}
   {% endfor %}
