@@ -14,8 +14,7 @@
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
-      <!--
-      <iframe width="315" height="560" src="https://www.youtube.com/embed/JM0vK00-EOU" frameborder="0" title="{{ title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+      <iframe width="315" height="560" src="https://www.youtube.com/embed/JM0vK00-EOU" frameborder="0" title="{{ title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
       <div class="image-gallery">
   {% for file in site.static_files %}
@@ -24,10 +23,12 @@
 	{% if file.extname == ".jpg" or file.extname == ".png" or file.extname == ".gif" %}
           <img src="{{ file.path | relative_url }}" alt="{{ file.basename }}" style="width:150px;height:150px;"/>
         {% elsif file.extname == ".mp4" %}
+	<!-- Skip video framing for now
           <video width="150" height="150" controls>
             <source src="{{ file.path | relative_url }}" type="video/mp4">
             Your browser does not support the video tag.
-          </video>
+	  </video> 
+	  -->
         {% endif %}
       </div>
     {% endif %}
