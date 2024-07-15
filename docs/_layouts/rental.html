@@ -17,14 +17,14 @@
       <iframe width="315" height="560" src="https://www.youtube.com/embed/JM0vK00-EOU” frameborder=”0″ allowfullscreen" title="{{ title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
       <div class="image-gallery">
-  {% for image in site.static_files %}
-    {% if image.path contains '/assets/rental/' %}
+  {% for file in site.static_files %}
+    {% if file.path contains '/assets/rental/' %}
       <div class="image-item">
 	{% if file.extname == ".jpg" or file.extname == ".png" or file.extname == ".gif" %}
-          <img src="{{ file.path }}" alt="{{ file.basename }}" style="width:150px;height:150px;"/>
+          <img src="{{ file.path | relative_url }}" alt="{{ file.basename }}" style="width:150px;height:150px;"/>
         {% elsif file.extname == ".mp4" %}
           <video width="150" height="150" controls>
-            <source src="{{ file.path }}" type="video/mp4">
+            <source src="{{ file.path | relative_url }}" type="video/mp4">
             Your browser does not support the video tag.
           </video>
         {% endif %}
