@@ -86,4 +86,4 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
 LINE: [@907bjbhg](https://lin.ee/g00nSrm){:target="_blank"}
 
 
-This property is advertised on [591](https://rent.591.com.tw/16647833){:target="_blank"}
+This property is advertised on [591](https://rent.591.com.tw/17008088){:target="_blank"}
