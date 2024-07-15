@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kolinchang
 github_username:  Ko-Lin
+whatsapp_username: 61435054793
 
 # Build settings
 theme: minima
@@ -38,7 +39,7 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/Ko-Lin" }
     - { platform: x, user_url: "https://x.com/kolinchang" }
-    - { platform: whatsapp, user_url: " https://wa.me/61435054793"}
+    - { platform: whatsapp, user_url: "https://wa.me/61435054793"}
 header_pages:
   - boai.md
   - contacts.md
