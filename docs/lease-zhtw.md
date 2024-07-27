@@ -1,20 +1,20 @@
 ---
 layout: lease-zh
-title: 住宅租賃契約書
-reviewYear: 2024
-reviewMonth: 07
-reviewDay: 27
-reviewDays: 3
-tenant: <承租人>
-landlord: 張格齡
-check: ✅
-rentalAddressCity: 高雄
-rentalAddressDistrict: 左營
-rentalAddressStreet: 博愛四路
-rentalAddressNumber: 280
-rentalAddressLevel: 2
-rentalAddressUnit: 2 
-placeholder: |TO_BE_FILLED_IN|
+title: "住宅租賃契約書"
+reviewYear: "2024"
+reviewMonth: "07"
+reviewDay: "27"
+reviewDays: "3"
+tenant: "<承租人>"
+landlord: "張格齡"
+check: "✅"
+rentalAddressCity: "高雄"
+rentalAddressDistrict: "左營"
+rentalAddressStreet: "博愛四路"
+rentalAddressNumber: "280"
+rentalAddressLevel: "2"
+rentalAddressUnit: "2"
+placeholder: "|TO_BE_FILLED_IN|"
 ---
 
 
