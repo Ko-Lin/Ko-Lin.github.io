@@ -14,6 +14,7 @@ tenant: "{::nomarkdown}_________{:/}"
 landlord: "張格齡"
 landlordId: "S224322958"
 landlordPhoneNum: "+886 966 745 535, +61 435 054 793"
+rentalAddress: "高雄市左營區博愛四路280號七樓之2"
 placeholder: "{::nomarkdown}_________{:/}"
 checkbox: "□"
 leaseStartYear: "{::nomarkdown}_________{:/}"
@@ -44,7 +45,7 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 
 ### (一)租賃住宅標示： 
 
-1. 門牌 **高雄市左營區博愛四路280號七樓之2** (基地坐落 **左營區福民** 段 **0243-0000** 地號)。
+1. 門牌 **{{ page.rentalAddress }}** (基地坐落 **左營區福民** 段 **0243-0000** 地號)。
 
 1. 專有部分建號 **04909-000**,權利範圍 **1分之1** ,面積共計 **122.14** 平方公尺。
 
