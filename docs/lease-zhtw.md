@@ -1,6 +1,11 @@
 ---
 layout: lease-zh
 title: "住宅租賃契約書"
+monthlyRent: "$55,000 TWD"
+bankName: "台北富邦銀行 012"
+bankAccountName: "張格齡"
+bankAcountNo: "760168051551"
+rentDueDay: "{::nomarkdown}_________{:/}"
 reviewYear: "2024"
 reviewMonth: "07"
 reviewDay: "27"
@@ -71,3 +76,9 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 
 租賃期間自西元 **{{ page.leaseStartYear }}** 年 **{{ page.leaseStartMonth }}** 月 **{{ page.leaseStartDay }}** 日起至西元 **{{ page.leaseEndYear }}** 年 **{{ page.leaseEndMonth }}** 月 **{{ page.leaseEndDay }}** 日止。
 (租賃期間至少 ** 一年 ** 以上)
+
+### 第三條 租金約定及支付
+
+承租人每月租金為新臺幣(下同) **{{ page.monthlyRent}}** 元整,每期應繳納 **1** 個月租金,並於 **每月 {{ page.rentDueDay }} 日** 前支付,不得藉任何理由拖延或拒絕;出租人於租賃期間亦不得藉任何理由要求調漲租金。
+
+租金支付方式: **轉帳繳付** : 金融機構: **{{ page.bankName }}** ,戶名: **{{ page.bankAcountName }}** ,帳號: **{{ page.bankAccountNo}}**。
