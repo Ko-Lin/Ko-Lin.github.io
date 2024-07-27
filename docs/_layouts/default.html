@@ -3,7 +3,7 @@
 # layouts have been customized.
 
 layout: base
-today: {{ 'now' | date: "%Y" }}
+today: {{ site.time | date: '%y%m%d' }}
 ---
 <!doctype html>
 
@@ -24,7 +24,7 @@ today: {{ 'now' | date: "%Y" }}
       {{ content }}
     </section>
     <footer>
-      &copy; to me
+	    {{ today }}
     </footer>
   </body>
 </html>
