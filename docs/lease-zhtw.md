@@ -5,14 +5,15 @@ reviewYear: "2024"
 reviewMonth: "07"
 reviewDay: "27"
 reviewDays: "3"
-tenant: "<span style="color:green">承租人</span>"
-landlord: "<span style="color:blue">張格齡</span>"
-check: "☑️"
+tenant: "承租人"
+landlord: "張格齡"
+placeholder: "TBA"
 checkbox: "□"
 ---
 
 
 # 契約審閱權  
+
 住宅租賃契約（以下簡稱本契約）於西元 {{ page.reviewYear }} 年 {{ page.reviewMonth }} 月 {{page.reviewDay }} 日經承租人攜回審 閱 _{{ page.reviewDays }}_ 日（契約審閱期間至少三日）。 
 
 
@@ -23,7 +24,7 @@ checkbox: "□"
 
 
 
-# 立契約書人承租人 {{ page.tenant }}，出租人 {{ page.landlord }} 為所有權人茲為住宅租賃事宜，雙方同意本契約條款如下： 
+# 立契約書人承租人 <span style="color:green">**{{ page.tenant }}**</span>，出租人 <span style="color:blue">**{{ page.landlord }}**</span> 為所有權人茲為住宅租賃事宜，雙方同意本契約條款如下： 
 
 
 ## 第一條 租賃標的 
@@ -41,11 +42,11 @@ checkbox: "□"
 
 1. 共有部分建號{{ page.placeholder }}，權利範圍{{ page.placeholder }}，持分面積{{ page.placeholder }}平方公尺。 
 
-1. 車位：{{ page.check }} 有（汽車停車位 **1** 個、機車停車位 **1** 個）{{ page.checkbox }} 無。 
+1. 車位：☑ 有（汽車停車位 **1** 個、機車停車位 **1** 個）□ 無。 
 
-1. {{ page.check }} 有 {{ page.checkbox }} 無設定他項權利，若有，權利種類：**健身房付費使用，頂樓交誼廳預約付費租借使用** 。 
+1. ☑ 有 □ 無設定他項權利，若有，權利種類：**健身房付費使用，頂樓交誼廳預約付費租借使用** 。 
 
-1. {{ page.checkbox }} 有 {{ page.check }} 無查封登記。 
+1. □ 有 ☑ 無查封登記。 
 
 ### (二)租賃範圍： 
 
@@ -58,5 +59,4 @@ checkbox: "□"
   1. 使用時間： **全日**。
  
 
-1. 租賃附屬設備： 
-{{ page.check }}有 {{ page.checkbox }} 無附屬設備，若有，詳如附件一租賃標的現況確認書。 
+1. 租賃附屬設備： ☑ 有 □ 無附屬設備，若有，詳如附件一租賃標的現況確認書。 
