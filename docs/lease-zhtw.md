@@ -1,29 +1,21 @@
 ---
-layout: rental
+layout: lease-zh
 title: 住宅租賃契約書
-reviewYear: 2024
-reviewMonth: 07
-reivewDay: 27
-reviewDays: 3
-tenant: ______
-landlord: 張格齡
-check: ✅
-rentalAddress: 高雄市左營區博愛四路280號7樓之2
 ---
 
 
 # 契約審閱權  
-住宅租賃契約（以下簡稱本契約）於西元__{{ page.reviewYear }}__ 年 __{{ page.reviewMonth}}__ 月 __{{page.reviewDay}}__ 日經承租人攜回審 閱 **__{{ page.reviewDays }}__** 日（契約審閱期間至少三日）。 
+住宅租賃契約（以下簡稱本契約）於西元__{{ layout.reviewYear }}__ 年 __{{ layout.reviewMonth}}__ 月 __{{layout.reviewDay}}__ 日經承租人攜回審 閱 **__{{ layout.reviewDays }}__** 日（契約審閱期間至少三日）。 
 
 出租人簽章： 
 承租人簽章： 
 
-立契約書人承租人 __{{ page.tenant }}__，出租人 __{{ page.landlord}}__ 為所有權人(應提示 經原所有權人同意轉租之證明文件)】茲為住宅租賃事宜，雙方同意本契 約條款如下： 
+立契約書人承租人 __{{ layout.tenant }}__，出租人 __{{ layout.landlord}}__ 為所有權人(應提示 經原所有權人同意轉租之證明文件)】茲為住宅租賃事宜，雙方同意本契 約條款如下： 
 
 
 第一條 租賃標的 
 (一)租賃住宅標示： 
-1、門牌 __{{ page.rentalAddress }} (基地坐落__段__小段__地號)。
+1、門牌 __{{ layout.rentalAddress }} (基地坐落__段__小段__地號)。
 2、專有部分建號 ，權利範圍 ，面積共計 平方公尺。 (1)主建物面積： 
 __層__平方公尺，__層__平方公尺，__層__平方公尺共計__ 平方公尺，用途__。 
 (2)附屬建物用途__，面積__平方公尺。 
