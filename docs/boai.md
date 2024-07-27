@@ -87,3 +87,15 @@ LINE: [@907bjbhg](https://lin.ee/g00nSrm){:target="_blank"}
 
 
 This property is advertised on [591](https://rent.591.com.tw/17008088){:target="_blank"}
+
+<div class="image-gallery">
+  {% for file in site.static_files %}
+    {% if file.path contains '/assets/rental/' %}
+      <div class="image-item">
+	{% if file.extname == ".jpg" or file.extname == ".png" or file.extname == ".gif" %}
+          <img src="{{ file.path | relative_url }}" alt="{{ file.basename }}" style="width:150px;height:150px;"/>
+        {% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
