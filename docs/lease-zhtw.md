@@ -5,16 +5,16 @@ reviewYear: "2024"
 reviewMonth: "07"
 reviewDay: "27"
 reviewDays: "3"
-tenant: "__________"
+tenant: "{::nomarkdown}_________{:/}"
 landlord: "張格齡"
-placeholder: "TBA"
+placeholder: "{::nomarkdown}_________{:/}"
 checkbox: "□"
-leaseStartYear: "____________"
-leaseStartMonth: "_______"
-leaseStartDay: "_________"
-leaseEndYear: "____________"
-leaseEndMonth: "_______"
-leaseEndDay: "_______"
+leaseStartYear: "{::nomarkdown}_________{:/}"
+leaseStartMonth: "{::nomarkdown}_________{:/}"
+leaseStartDay: "{::nomarkdown}_________{:/}"
+leaseEndYear: "{::nomarkdown}_________{:/}"
+leaseEndMonth: "{::nomarkdown}_________{:/}"
+leaseEndDay: "{::nomarkdown}_________{:/}"
 ---
 
 
@@ -65,7 +65,7 @@ leaseEndDay: "_______"
 
 1. 租賃附屬設備： **☑** 有 □ 無附屬設備，若有，詳如附件一租賃標的現況確認書。 
 
-[^1]: 機車位為每年住戶抽籤決定
+[^1]: 機車位每年住戶抽籤決定。
 
 ### 第二條 租賃期間
 
