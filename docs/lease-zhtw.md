@@ -31,16 +31,13 @@ checkbox: "□"
 
 ### (一)租賃住宅標示： 
 
-1. 門牌 **高雄市左營區博愛四路280號七樓之2** (基地坐落{{ page.placeholder }}段{{ page.placeholder }}小段{{ page.placeholder }}地號)。
+1. 門牌 **高雄市左營區博愛四路280號七樓之2** (基地坐落 **左營區福民** 段 **0243-0000** 地號)。
 
-1. 專有部分建號{{ page.planceholder }},權利範圍{{ page.planceholder }},面積共計{{ page.planceholder }}平方公尺。
+1. 專有部分建號 **04909-000**,權利範圍 **1分之1**,面積共計 **122.14** 平方公尺。
 
-  1. 主建物面積:
-{{ page.placeholder }}層{{ page.placeholder }}平方公尺,{{ page.placeholder }}層{{ page.placeholder }}平方公尺,{{ page.placeholder }}層{{ page.placeholder }}平方公尺共計{{ page.placeholder }}平方公尺, 用途{{ page.placeholder }}。
+  1. 主建物面積: **七** 層 **122.14** 平方公尺, 用途 **住家用**。
 
-  1. 附屬建物用途{{ page.placeholder }}，面積{{ page.placeholder }}平方公尺。 
-
-1. 共有部分建號{{ page.placeholder }}，權利範圍{{ page.placeholder }}，持分面積{{ page.placeholder }}平方公尺。 
+  1. 附屬建物用途陽台，面積 **21.46** 平方公尺。 
 
 1. 車位：☑ 有（汽車停車位 **1** 個、機車停車位 **1** 個）□ 無。 
 
@@ -54,7 +51,7 @@ checkbox: "□"
 
 1. 車位： 
   1. 汽車停車位種類及編號： 
-**地下** 第 **3** 層 **平面式**停車位，編號第 {{ page.placeholder }} 號。 
+**地下** 第 **3** 層 **平面式**停車位，編號第  **29**  號。 
   1. 機車停車位：**地下** 第 **3** 層編號第 **87** 號**(每年住戶抽籤決定)**。 
   1. 使用時間： **全日**。
  
