@@ -1,7 +1,7 @@
 ---
 layout: lease-zh
 title: "住宅租賃契約書"
-monthlyRent: "$55,000 TWD"
+monthlyRent: "55000"
 bankName: "台北富邦銀行 012"
 bankAccountName: "張格齡"
 bankAccountNo: "760168051551"
@@ -82,3 +82,7 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 承租人每月租金為新臺幣(下同) **{{ page.monthlyRent}}** 元整,每期應繳納 **1** 個月租金,並於 **每月 {{ page.rentDueDay }} 日** 前支付,不得藉任何理由拖延或拒絕;出租人於租賃期間亦不得藉任何理由要求調漲租金。
 
 租金支付方式: **轉帳繳付** : 金融機構: **{{ page.bankName }}** ,戶名: **{{ page.bankAccountName }}** ,帳號: **{{ page.bankAccountNo}}**。
+
+### 第四條 押金約定及返還
+
+押金由租賃雙方約定為 **2** 個月租金,金額為 **{{ page.monthlyRent | times:2 }}** 元整(最高不得 超過二個月租金之總額)。承租人應於簽訂本契約之同時給付出租人。 前項押金,除有第十一條第四項、第十三條第三項、第十四條第四項及第十八條第二項得抵充之情形外,出租人應於租期屆滿或租賃契約終止,承租人返還租賃住宅時,返還押金或抵充本契約所生債務後之賸餘押金。
