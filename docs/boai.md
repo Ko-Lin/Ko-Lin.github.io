@@ -88,6 +88,8 @@ LINE: [@907bjbhg](https://lin.ee/g00nSrm){:target="_blank"}
 
 This property is advertised on [591](https://rent.591.com.tw/17008088){:target="_blank"}
 
+ <iframe width="315" height="560" src="https://www.youtube.com/embed/JM0vK00-EOU" frameborder="0" title="{{ title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
 <div class="image-gallery">
   {% for file in site.static_files %}
     {% if file.path contains '/assets/rental/' %}
