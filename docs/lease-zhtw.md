@@ -4,7 +4,7 @@ title: "住宅租賃契約書"
 monthlyRent: "$55,000 TWD"
 bankName: "台北富邦銀行 012"
 bankAccountName: "張格齡"
-bankAcountNo: "760168051551"
+bankAccountNo: "760168051551"
 rentDueDay: "{::nomarkdown}_________{:/}"
 reviewYear: "2024"
 reviewMonth: "07"
@@ -25,7 +25,7 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 
 # 契約審閱權  
 
-住宅租賃契約（以下簡稱本契約）於西元 {{ page.reviewYear }} 年 {{ page.reviewMonth }} 月 {{page.reviewDay }} 日經承租人攜回審 閱 _{{ page.reviewDays }}_ 日（契約審閱期間至少三日）。 
+住宅租賃契約（以下簡稱本契約）於西元 {{ page.reviewYear }} 年 {{ page.reviewMonth }} 月 {{page.reviewDay }} 日經承租人攜回審閱 _{{ page.reviewDays }}_ 日（契約審閱期間至少三日）。 
 
 
 出租人簽章： 
@@ -64,7 +64,7 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 
    1. 汽車停車位種類及編號： 
 **地下** 第 **3** 層 **平面式** 停車位，編號第  **29**  號。 
-   1. 機車停車位：**地下** 第 **3** 層編號第 **87** 號 **[^1]**。 
+   1. 機車停車位：**地下** 第 **2** 層編號第 **15** 號 **[^1]**。 
    1. 使用時間： **全日**。
  
 
@@ -75,10 +75,10 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 ### 第二條 租賃期間
 
 租賃期間自西元 **{{ page.leaseStartYear }}** 年 **{{ page.leaseStartMonth }}** 月 **{{ page.leaseStartDay }}** 日起至西元 **{{ page.leaseEndYear }}** 年 **{{ page.leaseEndMonth }}** 月 **{{ page.leaseEndDay }}** 日止。
-(租賃期間至少 ** 一年 ** 以上)
+(租賃期間至少 **一年** 以上)
 
 ### 第三條 租金約定及支付
 
 承租人每月租金為新臺幣(下同) **{{ page.monthlyRent}}** 元整,每期應繳納 **1** 個月租金,並於 **每月 {{ page.rentDueDay }} 日** 前支付,不得藉任何理由拖延或拒絕;出租人於租賃期間亦不得藉任何理由要求調漲租金。
 
-租金支付方式: **轉帳繳付** : 金融機構: **{{ page.bankName }}** ,戶名: **{{ page.bankAcountName }}** ,帳號: **{{ page.bankAccountNo}}**。
+租金支付方式: **轉帳繳付** : 金融機構: **{{ page.bankName }}** ,戶名: **{{ page.bankAccountName }}** ,帳號: **{{ page.bankAccountNo}}**。

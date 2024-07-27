@@ -53,7 +53,7 @@ __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study
       - Washing Machine
       - Dryer
   - Entertainment
-      - TVs (Living Room, All Bedrooms)
+      - TVs (Living Room (70 inch Google Smart TV), All Bedrooms)
   - Comfort
       - Air Conditioning (Living Room - Commercial Grade, Kitchen, Study, All Bedrooms)
       - Water Heater
