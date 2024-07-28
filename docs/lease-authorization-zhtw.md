@@ -13,7 +13,7 @@ proxyAddress: "高雄市三民區褒忠街156號8樓之3"
 rentalAddress: "高雄市左營區博愛四路280號七樓之2"
 fromYear: "2024"
 fromMonth: "07"
-fromDate: "28"
+fromDaY: "28"
 toYear: "2026"
 ---
 
@@ -50,7 +50,7 @@ toYear: "2026"
 
 ### 授權期限
 
-自 **{{ page.fromYear }}** 年 **{{ page.fromMonth }}** 月 **{{ page.fromDay }}** 日至 **{{ page.toYear }}** 年 **{{ page.fromMont }}** 月 **{{ page.fromDay }}** 日。
+自 **{{ page.fromYear }}** 年 **{{ page.fromMonth }}** 月 **{{ page.fromDay }}** 日至 **{{ page.toYear }}** 年 **{{ page.fromMonth }}** 月 **{{ page.fromDay }}** 日。
 
 
 ### 簽署
