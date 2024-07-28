@@ -1,6 +1,28 @@
 ---
 title: "住宅租賃契約書"
 layout: lease-zh
+monthlyRent: "55000"
+bankName: "台北富邦銀行 012"
+bankAccountName: "張格齡"
+bankAccountNo: "760168051551"
+rentDueDay: "{::nomarkdown}_________{:/}"
+reviewYear: "2024"
+reviewMonth: "07"
+reviewDay: "28"
+reviewDays: "3"
+tenant: "{::nomarkdown}_________{:/}"
+landlord: "張格齡"
+landlordId: "S224322958"
+landlordPhoneNum: "+886 966 745 535, +61 435 054 793"
+rentalAddress: "高雄市左營區博愛四路280號七樓之2"
+placeholder: "{::nomarkdown}_________{:/}"
+checkbox: "□"
+leaseStartYear: "{::nomarkdown}_________{:/}"
+leaseStartMonth: "{::nomarkdown}_________{:/}"
+leaseStartDay: "{::nomarkdown}_________{:/}"
+leaseEndYear: "{::nomarkdown}_________{:/}"
+leaseEndMonth: "{::nomarkdown}_________{:/}"
+leaseEndDay: "{::nomarkdown}_________{:/}"
 ---
 
 [This is a comment that will be hidden.]: # 
