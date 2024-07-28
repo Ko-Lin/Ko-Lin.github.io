@@ -13,7 +13,7 @@ proxyAddress: "高雄市三民區褒忠街156號8樓之3"
 rentalAddress: "高雄市左營區博愛四路280號七樓之2"
 fromYear: "2024"
 fromMonth: "07"
-fromDaY: "28"
+fromDay: "28"
 toYear: "2026"
 ---
 
