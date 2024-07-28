@@ -1,7 +1,6 @@
 ---
 title: "授權簽約同意書"
 layout: lease-zh
-tenant: "{::nomarkdown}_________{:/}"
 landlord: "張格齡"
 landlordId: "S224322958"
 landlordPhoneNum: "+886 966 745 535, +61 435 054 793"
@@ -15,6 +14,7 @@ fromYear: "2024"
 fromMonth: "07"
 fromDay: "28"
 toYear: "2026"
+signaturePlaceHolder: {::nomarkdown}___________________________{:/}
 ---
 
 我，**{{ page.landlord }}**（姓名），身份證字號 **{{ page.landlordId }}**，現授權 **{{ page.proxy }}** （代理人姓名），身份證字號 **{{ page.proxyId }}**，作為我的代理人，代為簽署租賃合同，內容如下：
@@ -55,18 +55,18 @@ toYear: "2026"
 
 ### 簽署
 
-授權人簽名：{::nomarkdown}___________________________{:/}
+授權人簽名：{{ page.signaturePlaceHolder}} 
 
 日期：**{{ page.fromYear }}** 年 **{{ page.fromMonth }}** 月 **{{ page.fromDay }}** 日
 
-代理人簽名：{::nomarkdown}___________________________{:/}
+代理人簽名： {{ page.signaturePlaceHolder }}
 
 日期：**{{ page.fromYear }}** 年 **{{ page.fromMonth }}** 月 **{{ page.fromDay }}** 日
 
 
 **見證人**
 
-見證人簽名：{::nomarkdown}___________________________{:/}
+見證人簽名：{{ page.signaturePlaceHolder }}
 
 日期：**{{ page.fromYear }}** 年 **{{ page.fromMonth }}** 月 **{{ page.fromDay }}** 日
 

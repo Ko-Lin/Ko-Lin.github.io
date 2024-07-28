@@ -15,7 +15,7 @@ landlord: "張格齡"
 landlordId: "S224322958"
 landlordPhoneNum: "+886 966 745 535, +61 435 054 793"
 rentalAddress: "高雄市左營區博愛四路280號七樓之2"
-placeholder: "{::nomarkdown}_________{:/}"
+placeHolder: "{::nomarkdown}_______________{:/}"
 checkbox: "□"
 leaseStartYear: "{::nomarkdown}_________{:/}"
 leaseStartMonth: "{::nomarkdown}_________{:/}"
@@ -315,9 +315,9 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 統一編號(身分證明文件編號): 
 
 
-聯絡電話:
+聯絡電話: {{ page.placeHolder }}
 
-民 國 {::nomarkdown}_________{:/} 年 {::nomarkdown}_________{:/} 月 {::nomarkdown}_________{:/} 日
+民 國 {{ page.placeHolder }} 年 {{ page.placeHolder }} 月 {{ page.placeHolder }} 日
 
 ---
 
@@ -341,11 +341,11 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 若有,項目:
    1. 主臥室床邊。
 1. **☑** 有 □ 無住宅用火災警報器。□ 有 □ 無其他消防設施,若有,項目:
-   1. {::nomarkdown}_________{:/}
-   1. {::nomarkdown}_________{:/}
-   1. {::nomarkdown}_________{:/}
+   1. {{ page.placeHolder }}
+   1. {{ page.placeHolder }}
+   1. {{ page.placeHolder }}
    1. □ 有 **☑** 無定期辦理消防安全檢查。
-1. □ 有 **☑** 無滲漏水之情形,若有,滲漏水處:{::nomarkdown}_________{:/}。 
+1. □ 有 **☑** 無滲漏水之情形,若有,滲漏水處:{{ page.placeHolder }}。 
 滲漏水處之處理:
 : □ 由出租人修繕後交屋。
 : □ 由承租人修繕。
@@ -404,17 +404,18 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 : □ 瓦斯爐 **1** 臺 
 : □ 熱水器 **1** 臺 
 : □ 天然瓦斯 
-: □ 其他 {::nomarkdown}__________________{:/}。
-: □ 其他 {::nomarkdown}__________________{:/}。
-: □ 其他 {::nomarkdown}__________________{:/}。
-: □ 其他 {::nomarkdown}__________________{:/}。
-: □ 其他 {::nomarkdown}__________________{:/}。
+: □ 其他 {{ page.placeHolder }}。
+: □ 其他 {{ page.placeHolder }}。
+: □ 其他 {{ page.placeHolder }}。
+: □ 其他 {{ page.placeHolder }}。
+: □ 其他 {{ page.placeHolder }}。
+: □ 其他 {{ page.placeHolder }}。
 
-出租人: {::nomarkdown}_________{:/} (簽章)
+出租人: {{ page.placeHolder }} (簽章)
 
-承租人: {::nomarkdown}_________{:/} (簽章)
+承租人: {{ page.placeHolder }} (簽章)
 
-簽章日期: 民國 {::nomarkdown}_________{:/} 年 {::nomarkdown}_________{:/} 月 {::nomarkdown}_________{:/} 日
+簽章日期: 民國 {{ page.placeHolder }} 年 {{ page.placeHolder }} 月 {{ page.placeHolder }} 日
 
 
 ---
