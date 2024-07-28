@@ -17,7 +17,7 @@ fromDate: "28"
 toYear: "2026"
 ---
 
-我，**{{ page.landlord }}**（姓名），身份證字號 **{{ page.landlordId }}**，現授權 **{{ page.proxy }}** 代理人姓名），身份證字號 **{{ page.proxyId }}**，作為我的代理人，代為簽署 **{{ page.rentalAddress }}** 租賃合同，內容如下：
+我，**{{ page.landlord }}**（姓名），身份證字號 **{{ page.landlordId }}**，現授權 **{{ page.proxy }}** （代理人姓名），身份證字號 **{{ page.proxyId }}**，作為我的代理人，代為簽署 **{{ page.rentalAddress }}** 租賃合同，內容如下：
 
 ---
 
@@ -70,4 +70,3 @@ toYear: "2026"
 ---
 
 本授權書經雙方簽署後即生效，且在授權期限內有效。
-
