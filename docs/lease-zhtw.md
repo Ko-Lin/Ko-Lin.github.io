@@ -32,9 +32,9 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 住宅租賃契約（以下簡稱本契約）於西元 {{ page.reviewYear }} 年 {{ page.reviewMonth }} 月 {{page.reviewDay }} 日經承租人攜回審閱 _{{ page.reviewDays }}_ 日（契約審閱期間至少三日）。 
 
 
-出租人簽章： 
+出租人簽章：{{ page.placeHolder}}
 
-承租人簽章： 
+承租人簽章：{{ page.placeHolder}}
 
 
 # 立契約書人承租人 <span style="color:green">**{{ page.tenant }}**</span>，出租人 <span style="color:blue">**{{ page.landlord }}**</span> 為所有權人茲為住宅租賃事宜，雙方同意本契約條款如下： 
@@ -276,7 +276,7 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 
 #### 出租人: {{ page.landlord }}
 
-姓名(名稱): 簽章
+姓名(名稱): {{page.landlord}} 簽章 {{ page.placeHolder }}
 
 統一編號(身分證明文件編號): {{ page.landlordId }}
 
@@ -286,34 +286,33 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 
 #### 承租人:
 
-姓名(名稱): 簽章
+姓名(名稱):{{ page.placeHolder }} 簽章 {{ page.placeHolder }}
 
-統一編號(身分證明文件編號):
+統一編號(身分證明文件編號):{{ page.placeHolder }}
 
-戶籍地址(營業登記地址):
+戶籍地址(營業登記地址):{{ page.placeHolder }}
 
-通訊地址:
+通訊地址:{{ page.placeHolder }}
 
-聯絡電話:
+聯絡電話:{{ page.placeHolder }}
 
 #### 保證人:
 
-姓名(名稱): 簽章
+姓名(名稱):{{ page.placeHolder }} 簽章 {{ page.placeHolder }}
 
-統一編號(身分證明文件編號):
+統一編號(身分證明文件編號):{{ page.placeHolder }}
 
-戶籍地址:
+戶籍地址:{{ page.placeHolder }}
 
-通訊地址:
+通訊地址:{{ page.placeHolder }}
 
-聯絡電話:
+聯絡電話:{{ page.placeHolder }}
 
 #### 不動產代理人:
 
-姓名: 簽章
+姓名:{{ page.placeHolder }} 簽章 {{ page.placeHolder }}
 
-統一編號(身分證明文件編號): 
-
+統一編號(身分證明文件編號):{{ page.placeHolder }} 
 
 聯絡電話: {{ page.placeHolder }}
 
@@ -411,12 +410,11 @@ leaseEndDay: "{::nomarkdown}_________{:/}"
 : □ 其他 {{ page.placeHolder }}。
 : □ 其他 {{ page.placeHolder }}。
 
-出租人: {{ page.placeHolder }} (簽章)
+出租人: {{ page.placeHolder }} (簽章) {{ page.placeHolder }}
 
-承租人: {{ page.placeHolder }} (簽章)
+承租人: {{ page.placeHolder }} (簽章) {{ page.placeHolder }}
 
 簽章日期: 民國 {{ page.placeHolder }} 年 {{ page.placeHolder }} 月 {{ page.placeHolder }} 日
-
 
 ---
 
