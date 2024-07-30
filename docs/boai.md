@@ -1,6 +1,6 @@
 ---
 layout: rental
-title:  "3BR + 1 Study Apartment For Rent in Kaohsiung’s Zuoying District, Perfect for Families ! 🏡✨"
+title:  "Kaohsiung New Zuoying 3BR + 1 Study Apartment For Rent, Perfect for Families! 🏡✨"
 ---
 
 
