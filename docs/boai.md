@@ -3,7 +3,7 @@ layout: rental
 title:  "Kaohsiung New Zuoying 3BR + 1 Study Apartment For Rent, Perfect for Families! 🏡✨"
 ---
 
-> This property will not ask for bond and/or rent before inspection, rental contract will be sent or handed to you during inspection.  Beware of scams.
+> <span style="color:red">_This property will not ask for bond and/or rent before inspection, rental contract will be sent or handed to you during inspection.  Beware of scams._</span>
 
 __Perfect living space at this fully furnished sophisticated 3-bedroom + 1 study apartment with 1 scooter & 1 car parking that combines comfort, convenience, and security in the vibrant heart of Zuoying, Kaohsiung. Positioned in a dynamic neighbourhood, suited for families, professionals, and anyone looking for premium urban living:__
 
